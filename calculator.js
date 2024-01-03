@@ -26,6 +26,7 @@ const handleInput = () => {
 const evalInput = (expression) => {
   return eval(expression.replace(/sin/g, 'Math.sin')
                         .replace(/cos/g, 'Math.cos')
+                        .replace(/tan/g, 'Math.tan')
                         .replace(/cot/g, '1 / Math.tan')
                         .replace(/csc/g, '1 / Math.sin')
                         .replace(/sec/g, '1 / Math.cos')
