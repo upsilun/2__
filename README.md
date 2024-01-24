@@ -1,11 +1,11 @@
 # 🧮 2\\\
-##### Unleash the magic of math with 2\\\\, the Node.js command line calculator powered by the mystical "eval" function!
+##### 2\\\\ Is a Node.js command line calculator powered by the magical "eval" function!
 ## 🌟 Features
 
 - Perform basic arithmetic operations
 - Embrace trigonometry with sin, cos, cot, csc, sec
-- Summon the power of π with the shorthand 'pi'
-- Conquer exponentiation with '^'
+- Use the power of π with the shorthand 'pi'
+- Solve exponentiation with '^'
 
 ## 🚦 Getting Started
 
@@ -30,7 +30,7 @@ Under the hood, 2\\\ wields the powerful "eval" function to interpret and execut
 ~ sin(pi/2)
 >> 1
 ```
-Remember, type `exit`, `quit`, `close`, or `end` to gracefully leave the enchanting realm!
+Remember, type `exit`, `quit`, `close`, or `end` to gracefully leave the program!
 
 ## 🧮 Contributing
 
